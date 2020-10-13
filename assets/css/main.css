@@ -3092,10 +3092,10 @@ input, select, textarea {
 
 			.spotlights > section > .image {
 					object-fit:cover
-  					left: 0;
-  					top: 0;
-  					width: 100%;
-  					height: auto;
+  					
+  					
+  					width: 25em;
+  					height: 100%;
 				}	
 			
 			.spotlights > section > .content {
@@ -3112,10 +3112,10 @@ input, select, textarea {
 
 				.spotlights > section > .image {
 					object-fit:cover
-  					left: 1em;
-  					top: 1em;
-  					width:400px ;
- 					height: 300px;
+  					
+  					
+  					width:auto ;
+ 					height:100%;
   					
 				}
 
@@ -3141,10 +3141,8 @@ input, select, textarea {
 			}
 			.spotlights > section > .image {
 				object-fit:cover
- 				left: 1em;
-  				top: 1em;
- 				width: 100%;
-  				height: auto;
+ 				width: auto;
+  				height: 100%;
 				
 			}
 

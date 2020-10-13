@@ -2652,7 +2652,7 @@ input, select, textarea {
 				}
 
 	dl {
-		margin: 2em 0 2em 0;
+		margin: 0 0 2em 0;
 	}
 
 		dl dt {
@@ -2666,7 +2666,7 @@ input, select, textarea {
 		}
 
 /* Actions */
-	ul.actions.element.style {margin-top: 1em;}
+	
 
 	ul.actions {
 		display: -moz-flex;
@@ -2675,7 +2675,7 @@ input, select, textarea {
 		display: flex;
 		cursor: default;
 		list-style: none;
-		magin-top: 2em;
+	
 		margin-left: -1em;
 		padding-left: 0;
 	}

@@ -3091,7 +3091,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			.spotlights > section > .image {
-					position: absolute;
+					object-fit:cover
   					left: 0;
   					top: 0;
   					width: 100%;

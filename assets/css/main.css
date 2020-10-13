@@ -3013,6 +3013,7 @@ input, select, textarea {
 			display: block;
 			position: relative;
 			width: 25em;
+			height:100%;
 		}
 
 			.spotlights > section > .image img {
@@ -3090,13 +3091,7 @@ input, select, textarea {
 
 		@media screen and (max-width: 1680px) {
 
-			.spotlights > section > .image {
-					object-fit:cover
-  					
-  					
-  					width: 25em;
-  					height: 100%;
-				}	
+			
 			
 			.spotlights > section > .content {
 				padding: 4em 4em 2em 4em ;
@@ -3111,11 +3106,7 @@ input, select, textarea {
 			}
 
 				.spotlights > section > .image {
-					object-fit:cover
-  					
-  					
-  					width:auto ;
- 					height:100%;
+					
   					
 				}
 
@@ -3136,13 +3127,9 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
-			.spotlights > section {
-				display: block;
-			}
+			
 			.spotlights > section > .image {
-				object-fit:cover
- 				width: auto;
-  				height: 100%;
+				
 				
 			}
 

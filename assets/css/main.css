@@ -3093,7 +3093,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			.spotlights > section > .image {
-					max-width:25em;
+					max-width:23em;
 					
   					
 			}

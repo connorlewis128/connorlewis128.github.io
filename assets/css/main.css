@@ -3089,7 +3089,7 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-		@media screen and (max-width: 1680px) {
+		@media screen and (max-width: 1980px) {
 
 			
 			
@@ -3101,12 +3101,11 @@ input, select, textarea {
 
 		@media screen and (max-width: 980px) {
 
-			.spotlights > section {
-				display: block;
-			}
+			
 
 				.spotlights > section > .image {
-					
+					width:100%;
+					height:auto;
   					
 				}
 
@@ -3129,7 +3128,8 @@ input, select, textarea {
 
 			
 			.spotlights > section > .image {
-				
+				width:100%;
+				height:auto;
 				
 			}
 

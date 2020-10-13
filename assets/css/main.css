@@ -3090,7 +3090,10 @@ input, select, textarea {
 
 		@media screen and (max-width: 1680px) {
 
-				
+			.spotlights > section > .image {
+					
+  					height: auto;
+				}	
 			
 			.spotlights > section > .content {
 				padding: 4em 4em 2em 4em ;
@@ -3106,7 +3109,7 @@ input, select, textarea {
 
 				.spotlights > section > .image {
 					width: 100%;
-					height: 45em;
+  					height: auto;
 				}
 
 				.spotlights > section > .content {
@@ -3127,8 +3130,8 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.spotlights > section > .image {
-				width:100%;
-				height:40em;
+				width: 100%;
+  				height: auto;
 				min-height: 15em;
 				
 			}

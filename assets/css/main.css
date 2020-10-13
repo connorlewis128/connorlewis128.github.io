@@ -3091,7 +3091,7 @@ input, select, textarea {
 		@media screen and (max-width: 1680px) {
 
 			.spotlights > section > .image {
-					
+					width:100%
   					height: auto;
 				}	
 			
@@ -3129,6 +3129,9 @@ input, select, textarea {
 
 		@media screen and (max-width: 736px) {
 
+			.spotlights > section {
+				display: block;
+			}
 			.spotlights > section > .image {
 				width: 100%;
   				height: auto;

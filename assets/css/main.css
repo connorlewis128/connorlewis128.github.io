@@ -3104,7 +3104,7 @@ input, select, textarea {
 			}
 
 				.spotlights > section > .image {
-					width: 100%;
+					width: 100vw;
 					height: 100vh;
 				}
 

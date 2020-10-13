@@ -3090,13 +3090,10 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-		@media screen and (max-width: 1680px) {
+		@media screen and (max-width: 1980px) {
 
-			.spotlights > section > .image {
-					max-width:23em;
 					
-  					
-			}
+
 			.spotlights > section > .content {
 				padding: 4em 4em 2em 4em ;
 			}

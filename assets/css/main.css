@@ -3008,12 +3008,12 @@ input, select, textarea {
 
 		.spotlights > section > .image {
 			background-position: center center;
-			background-size: contain;
+			background-size: cover;
 			border-radius: 0;
 			display: block;
 			position: relative;
-			width: 25em;
-			height:100%;
+			width: 30em;
+			padding: 5px 5px 5px 5px;
 		}
 
 			.spotlights > section > .image img {
@@ -3089,7 +3089,7 @@ input, select, textarea {
 			opacity: 0;
 		}
 
-		@media screen and (max-width: 1980px) {
+		@media screen and (max-width: 1680px) {
 
 			
 			

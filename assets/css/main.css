@@ -3111,7 +3111,7 @@ input, select, textarea {
 			}
 
 				.spotlights > section > .image {
-					position: absolute;
+					object-fit:cover
   					left: 0;
   					top: 0;
   					width: 100%;
@@ -3140,7 +3140,7 @@ input, select, textarea {
 				display: block;
 			}
 			.spotlights > section > .image {
-				position: absolute;
+				object-fit:cover
  				left: 0;
   				top: 0;
  				width: 100%;

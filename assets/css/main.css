@@ -3014,7 +3014,7 @@ input, select, textarea {
 			display: block;
 			position: relative;
 			width: 25em;
-			
+			height: 30em;
 		}
 
 			.spotlights > section > .image img {

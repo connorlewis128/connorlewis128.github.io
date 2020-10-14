@@ -3008,17 +3008,16 @@ input, select, textarea {
 
 		.spotlights > section > .image {
 			
-			background-size:contain;
-			background-repeat:no-repeat;
+			background-size:cover;
 			border-radius: 0;
 			display: block;
 			position: relative;
 			width: 25em;
-			height: 30em;
+			padding: 50px 50px 50px 50px;
 		}
 
 			.spotlights > section > .image img {
-				width: 100%;
+				
 				border-radius: 0;
 				display: block;
 			}
@@ -3109,6 +3108,7 @@ input, select, textarea {
 			.spotlights > section > .image {
 					width:100%;
 					height:75vh;
+				
   					
 			}
 
